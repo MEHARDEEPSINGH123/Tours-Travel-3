@@ -1,0 +1,53 @@
+
+ATLAS JOURNEY ENTERPRISE GUIDE V1
+
+BRAND POSITIONING
+Travel Intelligence Platform focused on planning, comparison and preparation.
+
+NAVIGATION
+Use Journey Orb navigation.
+Do not use a traditional navbar.
+
+DESIGN RULES
+- Every section must look different.
+- No repeated card grids across the site.
+- No reused profile photos.
+- No reused destination imagery.
+- Avoid template layouts.
+
+USER FLOW
+Dream -> Plan -> Compare -> Prepare -> Travel
+
+SECTIONS
+1. Travel Compass
+2. Route Explorer
+3. Destination Stories
+4. Journey Planner
+5. Visa Journey
+6. Budget Simulator
+7. Weather Explorer
+8. Cultural Guide
+9. Travel Timeline
+10. Expert Insights
+
+TYPOGRAPHY
+Headings: Sora
+Subheadings: Manrope
+Body: Plus Jakarta Sans
+
+TECH STACK
+Next.js 15
+React 19
+TypeScript
+Tailwind CSS v4
+GSAP
+Framer Motion
+Lenis
+
+IMAGE RULES
+Use unique travel photos.
+Use unique expert profile photos.
+Never reuse images from other portfolio websites.
+
+ANTIGRAVITY RULE
+Create a travel experience, not a template website.
